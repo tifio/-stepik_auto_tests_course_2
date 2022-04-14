@@ -2,7 +2,6 @@ import time
 from selenium.webdriver.common.by import By
 
 link = "http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/"
-#link = "http://selenium1py.pythonanywhere.com"
 
 
 def test_button_search(browser):
